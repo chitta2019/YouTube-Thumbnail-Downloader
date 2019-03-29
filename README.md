@@ -10,11 +10,12 @@ This script depends on wget and pyfiglet python modules.
 
 These dependencies can be installed using the requirements file:
 
-    Installation on Windows:
+Installation on Windows:
 
-c:\python27\python.exe -m pip install -r requirements.txt
+    c:\python27\python.exe -m pip install -r requirements.txt
 
-    Installation on Linux
+Installation on Linux:
 
-sudo pip install -r requirements.txt
+    sudo pip install -r requirements.txt
+
 
